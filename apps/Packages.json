@@ -15,5 +15,22 @@
       "16x16": "https://windows96.net/system/resource/themes/default/icons/small/dwp.png"
     },
     "packageRoot": "$REPO_PATH$/dist/apply-dwp/"
+  },
+  {
+    "name": "st2dwp",
+    "friendlyName": "Shadertoy to DWP",
+    "description": "Apply Shadertoy shaders as dynamic wallpaper, and create .dwp files from them",
+    "author": "Sgeo",
+    "category": "other",
+    "version": 2.0,
+    "feature_requirements": [],
+    "min_os_version": 2.2776,
+    "max_os_version": 9999,
+    "depends": [],
+    "iconFiles": {
+      "32x32": "$REPO_PATH$/dist/st2dwp/shadertoy-favicon.png",
+      "16x16": "$REPO_PATH$/dist/st2dwp/shadertoy-favicon-16x16.png"
+    },
+    "packageRoot": "$REPO_PATH$/dist/st2dwp/"
   }
 ]

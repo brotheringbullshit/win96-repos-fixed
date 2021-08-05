@@ -1,0 +1,1 @@
+deregisterApp("st2dwp");
